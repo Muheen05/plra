@@ -8,6 +8,7 @@ import ModalProvider from '@/providers/modal-provider'
 import { Toaster } from '@/components/ui/toaster'
 import { Toaster as SonnarToaster } from '@/components/ui/sonner'
 
+
 const font = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
